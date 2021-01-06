@@ -42,5 +42,28 @@
 		"priority": "2",
 		"asigned": "Jacob Damian"
 	  }
+	  ,
+	  {
+		"id": 7,
+		"name": "Learn to use Sketch",
+		"duedate": "2021-02-13",
+		"priority": "2",
+		"asigned": "Jacob Damian"
+	  }
+	  ,
+	  {
+		"id": 8,
+		"name": "Have lunch with Maria on Wednesday",
+		"duedate": "2021-02-13",
+		"priority": "1",
+		"asigned": "Oliver Connor"
+	  },
+	  {
+		"id": 9,
+		"name": "Delivery the company accounts on day 30",
+		"duedate": "2021-05-02",
+		"priority": "1",
+		"asigned": "Joe Thomas"
+	  }
   ]
 }
