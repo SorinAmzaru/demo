@@ -2,31 +2,45 @@
   "tasks": [
 	  {
 		"id": 1,
-		"name": "Create app",
-		"duedate": "2021-01-01",
+		"name": "Develop new feature for the web application",
+		"duedate": "2021-01-30",
 		"priority": "1",
-		"asigned": "Sorin Amzaru"
+		"asigned": "Oliver Connor"
 	  },
 	  {
 		"id": 2,
-		"name": "Create app 2",
-		"duedate": "2021-01-01",
-		"priority": "1",
-		"asigned": "Sorin Amzaru"
+		"name": "Buy a helmet for cycling",
+		"duedate": "2021-05-02",
+		"priority": "3",
+		"asigned": "Joe Thomas"
 	  },
 	  {
 		"id": 3,
-		"name": "Create app 3",
-		"duedate": "2021-01-01",
+		"name": "Publish an article on Monday",
+		"duedate": "2021-03-11",
 		"priority": "1",
-		"asigned": "Sorin Amzaru"
+		"asigned": "Alexander Joseph"
 	  },
 	  {
 		"id": 4,
-		"name": "Create app 4",
-		"duedate": "2021-01-01",
+		"name": "Save a CD Music to have in the car",
+		"duedate": "2021-02-13",
+		"priority": "2",
+		"asigned": "Jacob Damian"
+	  },
+	  {
+		"id": 5,
+		"name": "Call Dad for his birthday",
+		"duedate": "2021-03-11",
 		"priority": "1",
-		"asigned": "Sorin Amzaru"
+		"asigned": "Alexander Joseph"
+	  },
+	  {
+		"id": 6,
+		"name": "Analyze the survey results",
+		"duedate": "2021-02-13",
+		"priority": "2",
+		"asigned": "Jacob Damian"
 	  }
   ]
 }
