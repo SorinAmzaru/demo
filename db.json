@@ -1,8 +1,10 @@
 {
-  "task": {
-    "name": "Create app",
-	"duedate": "2021-01-01",
-	"priority": "1",
-	"asigned": "Sorin Amzaru"
-  }
+  "tasks": [
+	  {
+		"name": "Create app",
+		"duedate": "2021-01-01",
+		"priority": "1",
+		"asigned": "Sorin Amzaru"
+	  }
+  ]
 }
