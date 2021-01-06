@@ -5,50 +5,57 @@
 		"name": "Develop new feature for the web application",
 		"duedate": "2021-01-30",
 		"priority": "1",
-		"asigned": "Oliver Connor"
+		"asigned": "Oliver Connor",
+		"status": "In progress"
 	  },
 	  {
 		"id": 2,
 		"name": "Buy a helmet for cycling",
 		"duedate": "2021-05-02",
 		"priority": "3",
-		"asigned": "Joe Thomas"
+		"asigned": "Joe Thomas",
+		"status": "Not started"
 	  },
 	  {
 		"id": 3,
 		"name": "Publish an article on Monday",
 		"duedate": "2021-03-11",
 		"priority": "1",
-		"asigned": "Alexander Joseph"
+		"asigned": "Alexander Joseph",
+		"status": "In progress"
 	  },
 	  {
 		"id": 4,
 		"name": "Save a CD Music to have in the car",
 		"duedate": "2021-02-13",
 		"priority": "2",
-		"asigned": "Jacob Damian"
+		"asigned": "Jacob Damian",
+		"status": "In progress"
 	  },
 	  {
 		"id": 5,
 		"name": "Call Dad for his birthday",
 		"duedate": "2021-03-11",
 		"priority": "1",
-		"asigned": "Alexander Joseph"
+		"asigned": "Alexander Joseph",
+		"status": "Not started"
 	  },
 	  {
 		"id": 6,
 		"name": "Analyze the survey results",
 		"duedate": "2021-02-13",
 		"priority": "2",
-		"asigned": "Jacob Damian"
+		"asigned": "Jacob Damian",
+		"status": "Not started"
 	  }
 	  ,
 	  {
 		"id": 7,
 		"name": "Learn to use Sketch",
-		"duedate": "2021-02-13",
+		"duedate": "2021-01-01",
 		"priority": "2",
-		"asigned": "Jacob Damian"
+		"asigned": "Jacob Damian",
+		"status": "Done"
 	  }
 	  ,
 	  {
@@ -56,14 +63,16 @@
 		"name": "Have lunch with Maria on Wednesday",
 		"duedate": "2021-02-13",
 		"priority": "1",
-		"asigned": "Oliver Connor"
+		"asigned": "Oliver Connor",
+		"status": "In progress"
 	  },
 	  {
 		"id": 9,
 		"name": "Delivery the company accounts on day 30",
-		"duedate": "2021-05-02",
+		"duedate": "2020-12-30",
 		"priority": "1",
-		"asigned": "Joe Thomas"
+		"asigned": "Joe Thomas",
+		"status": "Done"
 	  }
   ]
 }
