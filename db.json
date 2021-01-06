@@ -74,5 +74,40 @@
 		"asigned": "Joe Thomas",
 		"status": "Done"
 	  }
+	  ,
+	  {
+		"id": 10,
+		"name": "Book flight to Israel",
+		"duedate": "2021-01-13",
+		"priority": "2",
+		"asigned": "Jacob Damian",
+		"status": "Not started"
+	  }
+	  ,
+	  {
+		"id": 11,
+		"name": "Haircut",
+		"duedate": "2021-01-23",
+		"priority": "2",
+		"asigned": "Jacob Damian",
+		"status": "Not started"
+	  }
+	  ,
+	  {
+		"id": 12,
+		"name": "Blog about workspace management",
+		"duedate": "2021-03-13",
+		"priority": "1",
+		"asigned": "Oliver Connor",
+		"status": "In progress"
+	  },
+	  {
+		"id": 13,
+		"name": "Redesign Website",
+		"duedate": "2020-12-30",
+		"priority": "2",
+		"asigned": "Joe Thomas",
+		"status": "In progress"
+	  }
   ]
 }
