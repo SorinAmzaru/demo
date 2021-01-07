@@ -6,7 +6,7 @@
 		"duedate": "2021-01-30",
 		"priority": "1",
 		"asigned": "Oliver Connor",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  },
 	  {
 		"id": 2,
@@ -14,7 +14,7 @@
 		"duedate": "2021-05-02",
 		"priority": "3",
 		"asigned": "Joe Thomas",
-		"status": "Not started"
+		"taskstatus": "Not started"
 	  },
 	  {
 		"id": 3,
@@ -22,7 +22,7 @@
 		"duedate": "2021-03-11",
 		"priority": "1",
 		"asigned": "Alexander Joseph",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  },
 	  {
 		"id": 4,
@@ -30,7 +30,7 @@
 		"duedate": "2021-02-13",
 		"priority": "2",
 		"asigned": "Jacob Damian",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  },
 	  {
 		"id": 5,
@@ -38,7 +38,7 @@
 		"duedate": "2021-03-11",
 		"priority": "1",
 		"asigned": "Alexander Joseph",
-		"status": "Not started"
+		"taskstatus": "Not started"
 	  },
 	  {
 		"id": 6,
@@ -46,7 +46,7 @@
 		"duedate": "2021-02-13",
 		"priority": "2",
 		"asigned": "Jacob Damian",
-		"status": "Not started"
+		"taskstatus": "Not started"
 	  }
 	  ,
 	  {
@@ -55,7 +55,7 @@
 		"duedate": "2021-01-01",
 		"priority": "2",
 		"asigned": "Jacob Damian",
-		"status": "Done"
+		"taskstatus": "Done"
 	  }
 	  ,
 	  {
@@ -64,7 +64,7 @@
 		"duedate": "2021-02-13",
 		"priority": "1",
 		"asigned": "Oliver Connor",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  },
 	  {
 		"id": 9,
@@ -72,7 +72,7 @@
 		"duedate": "2020-12-30",
 		"priority": "1",
 		"asigned": "Joe Thomas",
-		"status": "Done"
+		"taskstatus": "Done"
 	  }
 	  ,
 	  {
@@ -81,7 +81,7 @@
 		"duedate": "2021-01-13",
 		"priority": "2",
 		"asigned": "Jacob Damian",
-		"status": "Not started"
+		"taskstatus": "Not started"
 	  }
 	  ,
 	  {
@@ -90,7 +90,7 @@
 		"duedate": "2021-01-23",
 		"priority": "2",
 		"asigned": "Jacob Damian",
-		"status": "Not started"
+		"taskstatus": "Not started"
 	  }
 	  ,
 	  {
@@ -99,7 +99,7 @@
 		"duedate": "2021-03-13",
 		"priority": "1",
 		"asigned": "Oliver Connor",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  },
 	  {
 		"id": 13,
@@ -107,7 +107,7 @@
 		"duedate": "2020-12-30",
 		"priority": "2",
 		"asigned": "Joe Thomas",
-		"status": "In progress"
+		"taskstatus": "In progress"
 	  }
   ]
 }
